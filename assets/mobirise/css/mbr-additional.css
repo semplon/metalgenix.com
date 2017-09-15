@@ -1806,17 +1806,6 @@ body {
     -webkit-flex-basis: 100%;
   }
 }
-.cid-qviIgUPnUQ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qviIgUPnUQ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qviIgUPnUQ .btn {
-  margin: 0 0 .5rem 0;
-}
 .cid-qviNDk0lEH {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2020,6 +2009,17 @@ body {
   .cid-qviNDk0lEH .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-qviIgUPnUQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qviIgUPnUQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qviIgUPnUQ .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qviIlgBoo9 .google-map {
   height: 25rem;
